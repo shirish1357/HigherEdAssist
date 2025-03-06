@@ -41,3 +41,22 @@ HigherEdAssist aims to bridge the gap between prospective students and the wealt
 
 5. **Outcome**  
    - By blending AI-based language understanding with domain knowledge of academic programs, HigherEdAssist offers a friendly, interactive way for students to discover suitable programs and gather important details.
+
+## Acknowledgments
+
+- **Ed Donner** for his valuable support and insights in building LLM applications  
+- The **OpenAI** team for providing the API that powers the conversational interface.  
+- The **Gradio** community for an excellent library that simplifies building interactive demos.  
+- Everyone who contributed feedback, ideas, or bug reports to make HigherEdAssist more robust and user-friendly.
+
+## Contributing
+
+Contributions, suggestions, and bug reports are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is distributed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it. See the [LICENSE](LICENSE) file for more details.
+
+## Disclaimer
+
+This tool is for **educational purposes only** and does not replace official academic advising. Always consult with a qualified advisor for personalized guidance regarding academic programs.
