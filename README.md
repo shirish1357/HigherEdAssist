@@ -44,7 +44,7 @@ HigherEdAssist aims to bridge the gap between prospective students and the wealt
 
 ## Acknowledgments
 
-- **Ed Donner** for his valuable support and insights in building LLM applications  
+- **Ed Donner** for his valuable support and insights in building LLM applications [Ed Donner](https://github.com/ed-donner) 
 - The **OpenAI** team for providing the API that powers the conversational interface.  
 - The **Gradio** community for an excellent library that simplifies building interactive demos.  
 - Everyone who contributed feedback, ideas, or bug reports to make HigherEdAssist more robust and user-friendly.
