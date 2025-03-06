@@ -1,0 +1,9 @@
+
+### Requirements
+
+```text
+openai>=0.27.0
+gradio>=3.23.0
+python-dotenv>=0.21.0
+sentence-transformers>=2.2.2
+torch>=1.11.0
